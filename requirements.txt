@@ -1,0 +1,5 @@
+googletrans
+streamlit
+googletrans==4.0.0rc1
+legacy-cgi
+python-m streamlit run language.py
